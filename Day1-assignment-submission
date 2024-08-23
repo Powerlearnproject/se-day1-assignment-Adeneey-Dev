@@ -1,0 +1,86 @@
+Part 1: Introduction to software engineering
+1. Software engineering is the systematic application of engineering techniques to the design, development, testing and maintenance of software system
+b. complexity management, cost saving, innovation, safety and security
+
+2. 3 key milestones in the evolution of software engineering
+  -Nato software engineering conference
+  -waterfall and structured programming
+  -Agile and object oriented programming
+
+3. Phases of the software development life cycle
+  -Planning 
+  -Requirement gathering
+  -Analysis
+  -Design
+  -Implementation
+  -Testing 
+  -Deployment
+  -Maintenance
+4. 
+  Waterfall Methodology:
+ - Linear, phase-by-phase approach
+ - Emphasizes predictability and stability
+ - Requirements gathered upfront, then design, implementation, testing, and deployment follow in sequence
+ - Changes are difficult and costly once development begins
+
+  Agile Methodology:
+ - Iterative and incremental approach
+ - Emphasizes flexibility, collaboration, and continuous improvement
+ - Requirements evolve through iterative development, testing, and feedback
+ - Changes are accommodated through regular iterations and sprints
+
+5a. Role and Responsibility of software developer
+ - Design, develop and test software applications
+ - write clean efficient and well documented code
+ - Troubleshoot and debug issues
+5b. Role and Responsibility of Quality assurance engineer
+- Ensure software program meet quality, security and compliances standards
+- Develop and execute testing strategies and plans
+5c. Role and Responsibility of Project manager
+- lead and manage software development projects from initiation to delivery
+- Ensure projects are completed on time, within budget and meets requirements
+
+6. Integrated Development Environments (IDEs) and Version Control Systems (VCS) are essential tools in the software development process.
+IDEs provide a comprehensive development environment, offering:
+1. Code editing and syntax highlighting
+2. Project management and organization
+3. Debugging and testing tools
+4. Code completion and refactoring
+5. Integration with other development tools
+Examples of IDEs:
+1. Eclipse
+2. Visual Studio
+3. IntelliJ IDEA
+4. NetBeans
+5. PyCharm
+VCS track changes to code, enabling:
+1. Collaboration and multi-developer support
+2. Version history and change tracking
+3. Branching and merging for parallel development
+4. Conflict resolution and rollback capabilities
+5. Backup and recovery
+Examples of VCS:
+1. Git
+2. Subversion (SVN)
+3. Mercurial
+4. Perforce
+5. CVS (Concurrent Versions System)
+
+7. Common challenges face by software engineer
+ - Complexity and technical debt
+ - Time management and prioritization
+
+Part 2: Introduction to AI and Prompt engineering
+1a. It is the process of designing and optimizing test prompts to interact with AI model.
+1b. - Improved accuracy
+    - Enhanced user experience
+    - Increased experinces 
+    - Better representation
+
+2a. Vague prompt
+    write a story about a person
+2b. Improved prompt
+    write a 2-page short story about a 30 years old woman who discover an hidden talent for painting.
+
+
+
